@@ -1,1 +1,4 @@
-# nba-salary-prediction
+# Predicting NBA Player Contracts
+## Genghis Shyy (gs484), Heesun Chang (hc483), Mohammad Kamil (mk848)
+
+The goal of this project is to analyze the different relationships between NBA players' statistical performance and the contracts they receive. More specifically, we plan on exploring a number of questions such as: How much does a player's shooting efficiency typically influence the general perception of a player's points-per-game statistic? How does a player's position and/or age affect the statistical expectations that player receives? Can we even confidently assert that there does indeed exist a positive correlation between a player's points-per-game statistic and that player's salary or contract length? By exploring such potential relationships between players' statistical profiles and their contracts, we can ultimately hope to reliably predict the standard market contract any given NBA player should be awarded.
